@@ -42,7 +42,6 @@ def get_ascii_values(input_string):
                 
     return modified_string
 
-# Example usage:
 input_string = input("enter your string:\t")
 result = get_ascii_values(input_string)
 
